@@ -14,11 +14,11 @@ This repository contains scripts and data files for integrating and analyzing pe
 - [License](#license)
 
 ## People Data
-- Sample people data is provided in the [people_data.json](path/to/people_data.json) file.
+- Sample people data is provided in the [people_data.json]([path/to/people_data.json](https://github.com/vfaraji89/genai-peopledata/blob/main/persondata)) file.
 - The data includes information on employment, education, skills, and more for individuals.
 
 ## Company Data
-- Company data is available in the [company_data.json](path/to/company_data.json) file.
+- Company data is available in the [company_data.json](https://github.com/vfaraji89/genai-peopledata/blob/main/companydata) file.
 - It contains details on the size, revenue, location, and funding of companies.
 
 
