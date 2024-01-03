@@ -8,7 +8,7 @@
       "previous": ["Tallinn, Estonia"]
     },
     "contacts": {
-      "email": "vahid.faraji@example.com",
+      "email": "vfaraji@example.com",
       "phone": "+905555555555",
       "linkedin": "linkedin.com/in/vahidfaraji"
     },
@@ -83,9 +83,6 @@
           "People data & insights (flow of product/people data, streamline text + LLM for product)",
           "Türkiye's Labor market analysis (position taxonomy, skill indexing and salary>position matching)",
           "Learn and micro use of LLM (GPT etc) for HR text data."
-        ],
-        "achievements": [
-          "Kariyer.net+ Isin olsun positioned 2.6 M job seekers in Turkey (2022)"
         ]
       },
       {
@@ -130,8 +127,8 @@
       // ... (additional work experience entries)
     ],
     "salary_data": {
-      "salary_expectation": "> $120,000",
-      "trimmed_salary_or_net": "$100,000",
+      "salary_expectation": "> $",
+      "trimmed_salary_or_net": "$",
       "career_transitions": [
         {
           "from": "Kariyer.net",
