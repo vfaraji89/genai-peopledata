@@ -1,6 +1,6 @@
-# People and Company Data Integration
+# Generate Self-Service Ratios for People and Company Data
 
-This repository contains scripts and data files for integrating and analyzing people and company data. It includes tools for data modification, clustering, and creating comprehensive profiles for individuals and organizations.
+This repository contains scripts and data files for integrating and analyzing people and company data. It includes tools for data analysis, clustering, and creating comprehensive science-backed for people data scientist and employers.
 
 ## Table of Contents
 - [People Data](#people-data)
