@@ -1,1 +1,17 @@
-i
+cloned the work @Vincent Vankrunkelsven
+
+Retrieval-augmented generation, or RAG, is a technique used with large language models to provide additional context without fine-tuning or retraining. It enhances the ability of language models to provide factual responses, which is a limitation of classical setups.
+
+We will be using the following tools and models:
+
+OpenAI's gpt-3.5-turbo model for prompt completions
+OpenAI's text-embedding-ada-002 model to create vector embeddings
+Pinecone as the vector database to store the embeddings
+langchain as the tool to interact with OpenAI and Pinecone
+
+
+%%capture
+# Below we installed specific versions of the packages
+# Feel free to experiment with different versions
+# However, the workspace below is only tested with these specific versions
+!pip install pinecone-client==2.2.2 openai==0.28.0 tiktoken==0.5.1 langchain==0.0.291
