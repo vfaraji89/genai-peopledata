@@ -1,0 +1,101 @@
+{
+  "person_data": {
+    "name": "Vahid Faraji",
+    "work_experience": [
+      {
+        "company_name": "Kariyer.net",
+        "job_title": "Product Manager (Data for Product)",
+        "employment_type": "Full-time",
+        "start_date": "Oct 2022",
+        "end_date": "Present",
+        "duration": "1 yr 4 mos",
+        "location": "Istanbul, Turkey",
+        "responsibilities": [
+          "People data & insights (flow of product/people data, streamline text + LLM for product)",
+          "Türkiye's Labor market analysis (position taxonomy, skill indexing and salary>position matching)",
+          "Learn and micro use of LLM (GPT etc) for HR text data."
+        ],
+        "achievements": "Kariyer.net+ Isin olsun positioned 2.6 M job seekers in Turkey (2022)",
+        "skills": [
+          "People data",
+          "Large Language Models (LLM)",
+          "Python (Programming Language)",
+          "Advanced Statistics",
+          "Transact-SQL (T-SQL)",
+          "Jira",
+          "Scrum",
+          "Product Management",
+          "Google Apps Script",
+          "Prompt Engineering",
+          "Labour Market Research",
+          "Agile Methodologies"
+        ]
+      },
+      {
+        "company_name": "WorqCompany",
+        "job_title": "Business Analytics (Financial Data and Reporting)",
+        "employment_type": "Full-time",
+        "start_date": "Sep 2021",
+        "end_date": "Oct 2022",
+        "duration": "1 yr 2 mos",
+        "location": "Istanbul, Turkey",
+        "responsibilities": [
+          "Financial modelling",
+          "Revenue management",
+          "Time series analysis and visualization"
+        ],
+        "skills": [
+          "SQL Server Management Studio",
+          "Advanced Statistics",
+          "Financial Analysis",
+          "Cash Flow Forecasting",
+          "Coding Experience"
+        ]
+      },
+      {
+        "company_name": "defaro OÜ",
+        "job_title": "People Data Lead",
+        "employment_type": "Full-time",
+        "start_date": "Nov 2019",
+        "end_date": "Jul 2022",
+        "duration": "2 yrs 9 mos",
+        "location": "Tallinn, Estonia",
+        "responsibilities": [
+          "Main Role: Head of science, people data lead",
+          "defaro is an upskilling platform for tech teams",
+          "Backed by @Ozyegin University-Girisim Fabrikasi (received grant, financial and mentoring aids)",
+          "Alumni of Founder Institute Turkish Virtual Batch-2020"
+        ],
+        "skills": ["Advanced Statistics"]
+      }
+    ],
+    "education": [
+      {
+        "university_name": "University of Tehran",
+        "degree": "Master’s Degree",
+        "field_of_study": "International Human Resource",
+        "start_date": "2013",
+        "end_date": "2015",
+        "grade": "4.00/4.00",
+        "activities_and_societies": null,
+        "thesis": null,
+        "research_fellowship": "Research on labour market and future of work",
+        "academic_teaching_assistantship": "TA - Econometrics 1 (undergrad course) Dr. Gökhan Övenç 2020-21 Spring, TA -Statistics 1 (Undergrad) Dr.Gökhan Övenç 2021-22 Fall",
+        "skills": ["Advanced Statistics", "Labour Market Research"]
+      },
+      {
+        "university_name": "Ibn Haldun University",
+        "degree": "Master of Economics",
+        "field_of_study": "Economics",
+        "start_date": "Feb 2020",
+        "end_date": "Aug 2022",
+        "grade": "3.29",
+        "activities_and_societies": "TA - Econometrics 1 (undergrad course) Dr. Gökhan Övenç 2020-21 Spring, TA -Statistics 1 (Undergrad) Dr.Gökhan Övenç 2021-22 Fall",
+        "thesis": "Econometrics-Skill data as research thesis",
+        "research_fellowship": "Research on labour market and future of work",
+        "academic_teaching_assistantship": null,
+        "skills": ["Advanced Statistics", "Labour Market Research"]
+      }
+    ]
+  }
+}
