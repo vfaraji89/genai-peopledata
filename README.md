@@ -22,6 +22,12 @@ This repository contains scripts and data files for integrating and analyzing pe
 - It contains details on the size, revenue, location, and funding of companies.
 
 
-## Key Performance Indicators (KPIs)
-- Define and calculate KPIs for individuals and companies with the provided formulas.
-- KPIs for hiring, performance, and financial criteria are included.
+## Ratios or generated KPIs
+- (Re)Define and calculate KPIs for individuals and companies with the provided formulas.
+- KPIs for pre-hiring,pos-hiring like performance, company-person relation and financial criteria are included.
+
+Contributing
+Contributions are welcome! If you have improvements or additional features, feel free to open an issue or submit a pull request.
+
+License
+This project is licensed under the MIT License.
