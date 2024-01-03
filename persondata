@@ -1,6 +1,75 @@
 {
   "person_data": {
     "name": "Vahid Faraji",
+    "gender": "Male",
+    "birth_year": 1990,
+    "location": {
+      "current": "Istanbul, Turkey",
+      "previous": ["Tallinn, Estonia"]
+    },
+    "contacts": {
+      "email": "vahid.faraji@example.com",
+      "phone": "+905555555555",
+      "linkedin": "linkedin.com/in/vahidfaraji"
+    },
+    "social_profiles": [
+      {
+        "network": "twitter",
+        "username": "vahidfaraji",
+        "url": "twitter.com/vahidfaraji"
+      },
+      {
+        "network": "facebook",
+        "username": "vahid.faraji",
+        "url": "facebook.com/vahid.faraji"
+      }
+      // ... (additional social profiles)
+    ],
+    "interests": [
+      "Data Science",
+      "HR Technology",
+      "Labor Market Analysis",
+      "Business Analytics"
+    ],
+    "skills": [
+      "People Data",
+      "Large Language Models (LLM)",
+      "Python",
+      "Advanced Statistics",
+      "Transact-SQL (T-SQL)",
+      "Jira",
+      "Scrum",
+      "Product Management",
+      "Google Apps Script",
+      "Prompt Engineering",
+      "Labour Market Research",
+      "Agile Methodologies"
+      // ... (additional skills)
+    ],
+    "education": [
+      {
+        "university_name": "University of Tehran",
+        "degree": "Master’s Degree",
+        "major": "International Human Resource",
+        "graduation_year": 2015,
+        "grade": "4.00/4.00"
+      },
+      {
+        "university_name": "Ibn Haldun University",
+        "degree": "Master of Economics",
+        "major": "Economics",
+        "graduation_year": 2022,
+        "grade": "3.29",
+        "activities_and_societies": [
+          "TA - Econometrics 1 (undergrad course) Dr. Gökhan Övenç 2020-21 Spring",
+          "TA -Statistics 1 (Undergrad) Dr.Gökhan Övenç 2021-22 Fall",
+          "Research Fellowship",
+          "Research on labour market and future of work",
+          "Academic Teaching Assitanceship"
+        ]
+      }
+      // ... (additional education details)
+    ],
     "work_experience": [
       {
         "company_name": "Kariyer.net",
@@ -15,20 +84,8 @@
           "Türkiye's Labor market analysis (position taxonomy, skill indexing and salary>position matching)",
           "Learn and micro use of LLM (GPT etc) for HR text data."
         ],
-        "achievements": "Kariyer.net+ Isin olsun positioned 2.6 M job seekers in Turkey (2022)",
-        "skills": [
-          "People data",
-          "Large Language Models (LLM)",
-          "Python (Programming Language)",
-          "Advanced Statistics",
-          "Transact-SQL (T-SQL)",
-          "Jira",
-          "Scrum",
-          "Product Management",
-          "Google Apps Script",
-          "Prompt Engineering",
-          "Labour Market Research",
-          "Agile Methodologies"
+        "achievements": [
+          "Kariyer.net+ Isin olsun positioned 2.6 M job seekers in Turkey (2022)"
         ]
       },
       {
@@ -61,41 +118,46 @@
         "duration": "2 yrs 9 mos",
         "location": "Tallinn, Estonia",
         "responsibilities": [
-          "Main Role: Head of science, people data lead",
+          "Main Role: head of science, people data lead",
           "defaro is an upskilling platform for tech teams",
-          "Backed by @Ozyegin University-Girisim Fabrikasi (received grant, financial and mentoring aids)",
+          "Backed by @Ozyegin University-Girisim Fabrikasi (received grant. financial and mentoring aids).",
           "Alumni of Founder Institute Turkish Virtual Batch-2020"
         ],
-        "skills": ["Advanced Statistics"]
+        "skills": [
+          "Advanced Statistics"
+        ]
       }
+      // ... (additional work experience entries)
     ],
-    "education": [
-      {
-        "university_name": "University of Tehran",
-        "degree": "Master’s Degree",
-        "field_of_study": "International Human Resource",
-        "start_date": "2013",
-        "end_date": "2015",
-        "grade": "4.00/4.00",
-        "activities_and_societies": null,
-        "thesis": null,
-        "research_fellowship": "Research on labour market and future of work",
-        "academic_teaching_assistantship": "TA - Econometrics 1 (undergrad course) Dr. Gökhan Övenç 2020-21 Spring, TA -Statistics 1 (Undergrad) Dr.Gökhan Övenç 2021-22 Fall",
-        "skills": ["Advanced Statistics", "Labour Market Research"]
+    "salary_data": {
+      "salary_expectation": "> $120,000",
+      "trimmed_salary_or_net": "$100,000",
+      "career_transitions": [
+        {
+          "from": "Kariyer.net",
+          "to": "WorqCompany",
+          "reason": "Seeking new challenges and opportunities in business analytics."
+        },
+        {
+          "from": "WorqCompany",
+          "to": "defaro OÜ",
+          "reason": "Passionate about leading in people data and upskilling platforms for tech teams."
+        }
+      ]
+    },
+    "interview": {
+      "date": "2024-01-03",
+      "time": "14:30",
+      "interviewer": "John Doe",
+      "overall_score": 4.5,
+      "criteria": {
+        "communication_skills": 4.8,
+        "technical_knowledge": 4.5,
+        "problem_solving": 4.2,
+        "team_collaboration": 4.6,
+        "adaptable_to_change": 4.4
       },
-      {
-        "university_name": "Ibn Haldun University",
-        "degree": "Master of Economics",
-        "field_of_study": "Economics",
-        "start_date": "Feb 2020",
-        "end_date": "Aug 2022",
-        "grade": "3.29",
-        "activities_and_societies": "TA - Econometrics 1 (undergrad course) Dr. Gökhan Övenç 2020-21 Spring, TA -Statistics 1 (Undergrad) Dr.Gökhan Övenç 2021-22 Fall",
-        "thesis": "Econometrics-Skill data as research thesis",
-        "research_fellowship": "Research on labour market and future of work",
-        "academic_teaching_assistantship": null,
-        "skills": ["Advanced Statistics", "Labour Market Research"]
-      }
-    ]
+      "comments": "Vahid demonstrated excellent communication skills and a strong understanding of the technical aspects. His problem-solving abilities were notable, and he showed good collaboration in a team setting. Additionally, he exhibited adaptability to change."
+    }
   }
 }
