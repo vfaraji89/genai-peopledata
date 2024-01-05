@@ -1,0 +1,155 @@
+{
+  "person_data": {
+    "name": "Candidate A",
+    "gender": "Undisclosed",
+    "birth_year": 1990,
+    "location": {
+      "current": "City A, Country A",
+      "previous": ["City B, Country B"]
+    },
+    "contacts": {
+      "email": "candidate_a@example.com",
+      "phone": "+900000000000",
+      "linkedin": "linkedin.com/in/candidatea"
+    },
+    "social_profiles": [
+      {
+        "network": "twitter",
+        "username": "candidatea",
+        "url": "twitter.com/candidatea"
+      },
+      {
+        "network": "facebook",
+        "username": "candidate.a",
+        "url": "facebook.com/candidate.a"
+      }
+    ],
+    "interests": [
+      "Field A",
+      "Field B",
+      "Field C",
+      "Field D"
+    ],
+    "skills": [
+      "Skill A",
+      "Skill B",
+      "Skill C",
+      "Skill D",
+      "Skill E",
+      "Skill F",
+      "Skill G",
+      "Skill H",
+      "Skill I",
+      "Skill J",
+      "Skill K",
+      "Skill L"
+    ],
+    "education": [
+      {
+        "university_name": "University X",
+        "degree": "Master’s Degree",
+        "major": "Field A",
+        "graduation_year": 2015,
+        "grade": "4.00/4.00"
+      },
+      {
+        "university_name": "University Y",
+        "degree": "Master of Z",
+        "major": "Z",
+        "graduation_year": 2022,
+        "grade": "3.29",
+        "activities_and_societies": [
+          "Activity A",
+          "Activity B",
+          "Research Fellowship",
+          "Research on Topic",
+          "Academic Teaching Assitanceship"
+        ]
+      }
+    ],
+    "work_experience": [
+      {
+        "company_name": "Company A",
+        "job_title": "Role A",
+        "employment_type": "Full-time",
+        "start_date": "Month Year",
+        "end_date": "Present",
+        "duration": "X yrs Y mos",
+        "location": "City A, Country A",
+        "responsibilities": [
+          "Responsibility A",
+          "Responsibility B",
+          "Responsibility C"
+        ]
+      },
+      {
+        "company_name": "Company B",
+        "job_title": "Role B",
+        "employment_type": "Full-time",
+        "start_date": "Month Year",
+        "end_date": "Month Year",
+        "duration": "X yrs Y mos",
+        "location": "City A, Country A",
+        "responsibilities": [
+          "Responsibility D",
+          "Responsibility E",
+          "Responsibility F"
+        ],
+        "skills": [
+          "Skill M",
+          "Skill N",
+          "Skill O",
+          "Skill P",
+          "Skill Q"
+        ]
+      },
+      {
+        "company_name": "Company C",
+        "job_title": "Role C",
+        "employment_type": "Full-time",
+        "start_date": "Month Year",
+        "end_date": "Month Year",
+        "duration": "X yrs Y mos",
+        "location": "City B, Country B",
+        "responsibilities": [
+          "Responsibility G",
+          "Responsibility H",
+          "Responsibility I"
+        ],
+        "skills": [
+          "Skill P"
+        ]
+      }
+    ],
+    "salary_data": {
+      "salary_expectation": "> $",
+      "trimmed_salary_or_net": "$",
+      "career_transitions": [
+        {
+          "from": "Company A",
+          "to": "Company B",
+          "reason": "Seeking new challenges and opportunities in Field B."
+        },
+        {
+          "from": "Company B",
+          "to": "Company C",
+          "reason": "Passionate about leading in Field C and upskilling platforms for teams."
+        }
+      ]
+    },
+    "interview": {
+      "date": "Date",
+      "time": "Time",
+      "interviewer": "Interviewer A",
+      "overall_score": 4.5,
+      "criteria": {
+        "communication_skills": 4.8,
+        "technical_knowledge": 4.5,
+        "problem_solving": 4.2,
+        "team_collaboration": 4.6,
+        "adaptable_to_change": 4.4
+      },
+      "comments": "Candidate A demonstrated excellent communication skills and a strong understanding of the technical aspects. Their problem-solving abilities were notable, and they showed good collaboration in a team setting. Additionally, they exhibited adaptability to change."
+    }
+  }
+}
