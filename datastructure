@@ -1,0 +1,49 @@
+String Data Types:
+
+name: Candidate's name ("Candidate A").
+gender: Gender information ("Undisclosed").
+location.current: Current location ("City A, Country A").
+location.previous: List of previous locations (["City B, Country B"]).
+contacts.email: Email address ("candidate_a@example.com").
+contacts.phone: Phone number ("+900000000000").
+contacts.linkedin: LinkedIn profile URL ("linkedin.com/in/candidatea").
+social_profiles[*].network: Social media network names ("twitter", "facebook").
+social_profiles[*].username: Usernames on social media platforms ("candidatea", "candidate.a").
+social_profiles[*].url: URLs for social media profiles ("twitter.com/candidatea", "facebook.com/candidate.a").
+interests[*]: List of interests ("Field A", "Field B", "Field C", "Field D").
+skills[*]: List of skills ("Skill A", "Skill B", ..., "Skill P", "Skill Q").
+education[*].university_name: University names ("University X", "University Y").
+education[*].degree: Degree types ("Master’s Degree", "Master of Z").
+education[*].major: Major field of study ("Field A", "Z").
+education[*].grade: Grade or GPA ("4.00/4.00", "3.29").
+education[*].activities_and_societies[*]: List of activities and societies during education.
+work_experience[*].company_name: Company names ("Company A", "Company B", "Company C").
+work_experience[*].job_title: Job titles ("Role A", "Role B", "Role C").
+work_experience[*].employment_type: Employment types ("Full-time").
+work_experience[*].location: Work locations ("City A, Country A", "City B, Country B").
+work_experience[*].responsibilities[*]: List of responsibilities for each job role.
+work_experience[*].skills[*]: List of skills relevant to each job role.
+salary_data.salary_expectation: Salary expectation ("> $").
+salary_data.trimmed_salary_or_net: Trimmed salary or net expectation ("$").
+salary_data.career_transitions[*].from: Previous company in career transitions ("Company A", "Company B").
+salary_data.career_transitions[*].to: Current or next company in career transitions ("Company B", "Company C").
+salary_data.career_transitions[*].reason: Reasons for career transitions ("Seeking new challenges...", "Passionate about leading...").
+interview.date: Interview date ("Date").
+interview.time: Interview time ("Time").
+interview.interviewer: Interviewer's name ("Interviewer A").
+interview.overall_score: Overall interview score (4.5).
+interview.criteria[*]: Individual scores for interview criteria.
+interview.comments: Comments from the interview ("Candidate A demonstrated excellent...").
+Numeric Data Types:
+
+birth_year: Birth year (1990).
+education[*].graduation_year: Graduation years (2015, 2022).
+work_experience[*].duration: Duration in each job role ("X yrs Y mos").
+interview.overall_score and interview.criteria[*]: Numeric scores (4.5, 4.8, 4.5, 4.2, 4.6, 4.4).
+Boolean Data Types:
+
+Array Data Types:
+
+Object Data Types:
+
+Objects such as location, contacts, social_profiles[*], criteria, and interview contain various key-value pairs.
