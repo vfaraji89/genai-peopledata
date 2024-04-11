@@ -1,0 +1,68 @@
+# Input JSON data for people (Vahid Faraji)
+vahid_faraji_data = {
+    "name": "Vahid Faraji",
+    "location": {
+        "current": "Istanbul, Turkey",
+        "previous": ["Tallinn, Estonia"]
+    },
+    "skills": [
+        "People Data",
+        "Large Language Models (LLM)",
+        "Python",
+        "Advanced Statistics",
+        "Transact-SQL (T-SQL)",
+        "Jira",
+        "Scrum",
+        "Product Management",
+        "Google Apps Script",
+        "Prompt Engineering",
+        "Labour Market Research",
+        "Agile Methodologies"
+    ],
+    "work_experience": [
+        {
+            "company_name": "Kariyer.net",
+            "job_title": "Product Manager (Data for Product)"
+        },
+        {
+            "company_name": "WorqCompany",
+            "job_title": "Business Analytics (Financial Data and Reporting)"
+        },
+        {
+            "company_name": "defaro OÜ",
+            "job_title": "People Data Lead"
+        }
+    ]
+}
+
+# Input JSON data for company (defaro OÜ)
+defaro_data = {
+    "name": "defaro OÜ",
+    "size": "1-10",
+    "location": {
+        "name": "Tallinn, Estonia"
+    },
+    "industry": "tech services",
+    "tags": [
+        "Advanced Statistics",
+        "People Data",
+        "Tech Services",
+        "Upskilling Platforms",
+        "Labor Market Research"
+    ],
+    "employee_count": 8,
+    "founded": 2019,
+    "summary": "defaro OÜ is a tech services company specializing in people data and upskilling platforms for tech teams."
+}
+
+# Auto-generate ratios or KPIs based on input data
+def generate_ratios(people_data, company_data):
+    # Example: Calculate the ratio of employees with "People Data" skill to total employees
+    people_data_count = sum(1 for entry in people_data["work_experience"] if "People Data" in entry.get("skills", []))
+    total_employees = company_data.get("employee_count", 1)  # Default to 1 if employee count is not provided
+    people_data_ratio = people_data_count / total_employees
+    return people_data_ratio
+
+# Generate ratios based on input data
+people_data_ratio = generate_ratios(vahid_faraji_data, defaro_data)
+print("Ratio of employees with 'People Data' skill:", people_data_ratio)
