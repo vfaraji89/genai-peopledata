@@ -12,11 +12,11 @@ This repository contains scripts and data files for integrating and analyzing pe
 
 ## People Data
 - Sample people data is provided in the [people_data.json](https://github.com/vfaraji89/genai-peopledata/blob/main/persondata) file.
-- The data includes information on employment, education, skills, and more for individuals.
+- The data includes information on employment, education, skills, and more for individuals of Vahid Faraji to meet the concern of any privacy and make it more realistic.
 
 ## Company Data
 - Company data is available in the [company_data.json](https://github.com/vfaraji89/genai-peopledata/blob/main/companydata) file.
-- It contains details on the size, revenue, location, and funding of companies.
+- It contains details on the size, revenue, location, and funding of companies. The data is from defaro.io with having permission.
 
 ## Ratios or Generated KPIs
 - (Re)Define and calculate KPIs for individuals and companies with the provided formulas.
