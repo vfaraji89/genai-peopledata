@@ -6,8 +6,7 @@ This repository contains scripts and data files for integrating and analyzing pe
 - [People Data](#people-data)
 - [Company Data](#company-data)
 - [Ratios or Generated KPIs](#ratios-or-generated-kpis)
-- [OpenAI Generated KPIs](#openai-suggestion-kpis
-- )
+- [OpenAI Generated KPIs](#openai-suggestion-kpis)
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
