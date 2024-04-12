@@ -7,7 +7,7 @@
   "churn_rate": 0.5,
   "id": "defaro-ou",
   "founded": 2019,
-  "inferred_revenue": "$20K",
+  "inferred_revenue": "$5K",
   "industry": "tech services",
   "naics": null,
   "sic": null,
@@ -18,7 +18,7 @@
     "metro": null,
     "country": "Estonia",
     "continent": "Europe",
-    "street_address": "Example Street 123",
+    "street_address": "Street 123",
     "address_line_2": null,
     "postal_code": "12345",
     "geo": "59.4370, 24.7536"
@@ -28,7 +28,7 @@
   "facebook_url": null,
   "twitter_url": null,
   "profiles": [],
-  "website": "defaro-example.com",
+  "website": "defaro.io",
   "ticker": null,
   "gics_sector": null,
   "mic_exchange": null,
@@ -41,7 +41,7 @@
     "Upskilling Platforms",
     "Labor Market Research"
   ],
-  "headline": "Building the Future of Tech Teams",
+  "headline": "Building the Future of Learning for Tech Teams",
   "alternative_names": [],
   "alternative_domains": [],
   "affiliated_profiles": [],
@@ -49,7 +49,7 @@
   "immediate_parent": null,
   "direct_subsidiaries": null,
   "all_subsidiaries": null,
-  "total_funding_raised": 0.0,
+  "total_funding_raised": "$5K",
   "latest_funding_stage": null,
   "last_funding_date": null,
   "number_funding_rounds": 0,
@@ -57,15 +57,15 @@
   "funding_details": [],
   "employee_growth_rate": {
     "3_month": 0.0,
-    "6_month": 0.125,
+    "6_month": 0.5,
     "12_month": 0.25,
     "24_month": 0.5
   },
   "employee_churn_rate": {
     "3_month": 0.0,
     "6_month": 0.0,
-    "12_month": 0.125,
-    "24_month": 0.25
+    "12_month": 0.0,
+    "24_month": 2.0
   },
   "average_employee_tenure": 1.5,
   "average_tenure_by_role": {
@@ -175,7 +175,8 @@
       }
     ]
   },
-  "revenue": "$20K",
-  "total_job_posts": 15,
+  "revenue": "$5K",
+  "total_job_posts": 5,
   "job_post_duration": {
-    "average": "30
+    "average": "30"
+}
